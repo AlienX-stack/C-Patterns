@@ -1,2 +1,2 @@
-# Python-Algo
-All Python Algorithm Programs 
+# C-Patterns
+All Pattern Related Programs in C 
